@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT Basic App GitHub", "MT Basic App GitHub\MT Basic App GitHub.csproj", "{2DAB771B-C51A-4720-BB49-BA0264BAEEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{6B85C41D-9599-4F56-9586-11B47C0C28F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAB771B-C51A-4720-BB49-BA0264BAEEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAB771B-C51A-4720-BB49-BA0264BAEEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAB771B-C51A-4720-BB49-BA0264BAEEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAB771B-C51A-4720-BB49-BA0264BAEEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B85C41D-9599-4F56-9586-11B47C0C28F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B85C41D-9599-4F56-9586-11B47C0C28F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B85C41D-9599-4F56-9586-11B47C0C28F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B85C41D-9599-4F56-9586-11B47C0C28F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4F1D7E-4C68-4D08-B0C6-5DD1CB0EA8EC}
+	EndGlobalSection
+EndGlobal
